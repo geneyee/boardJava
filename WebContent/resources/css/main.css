@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#mainLogo {
+	font-family: 'Secular One', sans-serif;
+}
+
+#subLogo {
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+.card-title {
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
